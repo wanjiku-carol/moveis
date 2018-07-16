@@ -1,0 +1,72 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.19.1]
+    method: GET
+    uri: https://api.themoviedb.org/3/tv/1396?api_key=9c0991c825c287a614ad30c9ff5d30a1
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA3VX23LiuBb9FRUv5wUIt0DISxfpXDtNJ93pzqUvRQlbxgJb8kgyhExN1fzGeTvf
+        Mp8yX3LWlg2EQD8kBULee2vttdaW/6yMeTALjc5GGXdx5bhyIO5esmW/e7o4yacX59PG83D8eBJc
+        BNHzY32aTSrVSmAEdyIcjZeV4x9/VmRYOe52u+12taJ4KhDjXqpAsAuZJHLCFZ7IjI5kItY5zMe7
+        b1PTax2Kl2Zw3bu7vn9+38/Dm0b7yef461e1IjJpdShGJlcjJynuj85htdPDT5E01o24NKMQhSBg
+        q9E4qjWatWYfySZCGWHXpTWP1nWdGp5yHzzWqcj4hBZj57Ljg4PFYlHnaVAPdHpgY72wB2MccybV
+        pDbmIcL6WO1+F5/UCAcK88BJrSrHEU+sqFYSriY5QlLmilCVX7T0tsxmu9bo11pUZlnTSZmFnfgs
+        SriFNrOi/HLLYPh+lb/XQVQ90Wsks3T+JR18vXnPT5ezs+4Hc6/F03Nyfrlo1zNF3dJGTlBxoHPl
+        DDpW+XbnIVB5OhZmpKNRiTRydluv163gVissH+5G+UFhfq3WeTJaHR8JBLV8/cP+c+q5MHMpFvjl
+        IRaKPfDECcMeYulElXH2SSzYUDzLQLMgFqm0yMqc4PhiqkxaFko+UdqKkC2ki9mdQ252dXXFAg7y
+        GcZVyCZyjtCcoVu0F0/piGmVINJCs6XgxrJERI45zRLsrbJYsLEABYRlIGyyis6ZFcoKejzCU4mw
+        VuHPJ+GK5SBcIpSj4wFHaQRFtCLI8SlG2oinMln+h4IqlCd5wqLc0a/cIcCSBdrig6X8iCNQl8PH
+        EJgKo3PLwIkkpPShySdF3sBAFHUSl87yhBvp0JZOu95udWnNIsqaJc2luP+gn9tmqlvTk2tjZHw1
+        nPZyfdcvNb0hNHqcZlzJ1xJqNnrtN8RbXNpOJ5q5UE+7Qbt39H189xC9XNth63tJvLLxdxrnu5UB
+        HdeyrwBqLi0JZ5dUnprVIme73eu0tnKqPEnWUS/lJGYnRobo+hkh5rhUKbDbF3YdtNVtHP4+5oVB
+        L+8lZ7drMOz+cCD+WhzAaNuJ+rVGq9bsVTYW5h+FugoRtw97vQ06mSA6+DwbSfiubnVwoCaf8m/j
+        x7tALj6qb48uvDm5/COLnz+ZsoNFQaNCvpXjBp35dxb5prDeujDSf1mYD8ea24V52G0Qa53s6nJL
+        xCB7IiNBUrV5GAqvOgBsI21S6Gq8hKpCkgq+yQCKKBUtbR1qNkK4muXz+ZL5BwyzLkcUxz5AeAKE
+        UrMU7fpZKZLbn5VVes4UzAO5wlIe21I4ue08P8373y863+8vZx97Orh5kSfju6fL/UA2d4FEh+Hj
+        R7tANttrJDfTsESytY3klfISh0loiLnIWfVHYGkOMwgFIPHmQ9uCGPRmsFDPSjICshX0QQZkl944
+        yBQKcCKO8Usg0JIVSIoIIKv4IxcwRwDsPbewl2JTbjMZUGgOv8GCL0RY9IWTIce+kVluY7QO3kbB
+        IWSReEuF52XCcCqtzj5Q9RigOEYQo8wJMWMBMy3O6/gMNmCkFe/YJXZF3FBon492kYciwUTTf5ju
+        joV6W4XZvWMPFJR+mxg6Q4YRxHAMA+B07qgwHNoZnbzbpcEkfDl9GHYPZ42hWTRvOrfnn9OODGbB
+        x/v9NGjt0KDZIBq0SCG/p8HhWxq099LAxdK8YQHVLlUOsADEmDuXYCDkwgMkSQnSwaOPSUUl/AAq
+        t+NiJoUAzBHy0GcJKSx+jgdJT68QrRZDjDoKhfIs0xJ2GrKZWBKiS4SQRY2DZJyDQAZ/fgyVEmOD
+        18NqxZ9Ypmv62PJEyKnQcZRuQENiUhmZJk4inosp5xmFTiKcdTU4PM5a1orZ7fcDvokfxqG0Vic5
+        Ea84B/1qchfThPYLW6OZig64cSLZYwxRdHv0+UgsGp2jJx1dflHn98Pm0Ukrur3Yz4j2LiOatUZv
+        r/W/YkT3LSM624z4Sr3ZYsJG2N4ZAp2JjTPg9pmUbMdXadBmDFi6MxReAfDHGnvBEETE5qWPRzdy
+        hJTFUh1zWdEXllK9lhzFpyYnwTe0OvfaVaGOoiI5lSnQN72kG9lFjkR+XQnpiWeJaytFg3J8nPhr
+        Eb1wsFAvYBUbt8ME1IyHU/qMPYWFo3PeU2wss/KWN1smlG2B+zv+4ZUCRZELGLLRQPpclHz3Ucrl
+        L44gWyodUbzQBIABJgkHa4Wh52nnv3//1wILJQq0vA+tYmNC0ZgZ4spVmC6RtUh9ydUMChCbex5C
+        AzYcfQ/j4rObmy9Bv9ttvv9ym53yVqO3aF7kZ4PhdD/jOruMa3nGHe5h3Oa2sXkBKhlH27c9qEiE
+        sukSvBIrNb+8ABPTgBV8JvBUS2El1FZFEubl9ZR2EhU9M5RIl2tvACetd3KStr+50qtBcUEAPMYV
+        JpfLJKyWTcY65DpJCv+bCZFtGgMQjSQ6YRYY4TDPznlA9SCNJJZi/EUGFLG4ydO7I6iF41puinaW
+        N4pz39JEitwJtMuxoZytju/Q3E1mOlFxRh+WNEeP8gylM+FfMqzfdHo2YIMJXVPGRnsZAJ+EL6qe
+        GlXiBQwO/Syu9YngISHESdU5wo8T/iLojQUUIQQ4xqdXBBVV/+d/P9VPNQDf8UpKMwMWufKE1IsL
+        VBQq3MM1037pNea5krEZzKZXHz9fP1w+Ni5azy83+7l26C+5jrscd9zKGcRBr21umXkeoYWZ8ytz
+        7cSIA13/7ndUb5dLJQ1b3X7zr/8D94+UAmYQAAA=
+    headers:
+      Access-Control-Allow-Origin: ['*']
+      Access-Control-Expose-Headers: ['ETag, X-RateLimit-Limit, X-RateLimit-Remaining,
+          X-RateLimit-Reset, Retry-After']
+      Cache-Control: ['public, max-age=28800']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Length: ['2081']
+      Content-Type: [application/json;charset=utf-8]
+      Date: ['Mon, 16 Jul 2018 11:52:07 GMT']
+      ETag: [W/"669da8d751216a2a568d5b6869fd419f"]
+      Server: [openresty]
+      Vary: [Accept-Encoding]
+      X-Memc: [HIT]
+      X-Memc-Age: ['19189']
+      X-Memc-Expires: ['9611']
+      X-Memc-Key: [c74db595fa187c90be00ec20cf9a07f6]
+      X-RateLimit-Limit: ['40']
+      X-RateLimit-Remaining: ['39']
+      X-RateLimit-Reset: ['1531741937']
+    status: {code: 200, message: OK}
+version: 1

@@ -1,0 +1,3 @@
+{
+  "tests/test_trywrapper.py::TestTv::test_tv_info": true
+}
